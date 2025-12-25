@@ -97,13 +97,11 @@ h1 {
 
 ## SERVER SIDE PROCESSING:
 
-<img width="1039" height="582" alt="image" src="https://github.com/user-attachments/assets/0121cc8f-4fb6-4ebf-b95f-9b539eab5e65" />
+<img width="1039" height="582" alt="Screenshot 2025-12-24 204009" src="https://github.com/user-attachments/assets/5d60eb34-4978-4595-a650-4d69e90bbf35" />
 
 
 ## HOMEPAGE:
-
-<img width="1914" height="902" alt="Screenshot 2025-12-24 203239" src="https://github.com/user-attachments/assets/f03c3c7b-6612-40d7-bd94-a342460acfa1" />
-
+<img width="1914" height="902" alt="Screenshot 2025-12-24 203239" src="https://github.com/user-attachments/assets/5194b907-947d-4661-a7ef-95d2c2e39ac4" />
 
 
 ## RESULT:
