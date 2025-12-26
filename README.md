@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:23/12/2025
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -93,16 +93,14 @@ h1 {
 </div>
 </body>
 </html>
-
+```
 
 ## SERVER SIDE PROCESSING:
-
-<img width="1039" height="582" alt="Screenshot 2025-12-24 204009" src="https://github.com/user-attachments/assets/5d60eb34-4978-4595-a650-4d69e90bbf35" />
+<img width="1039" height="582" alt="Screenshot 2025-12-24 204009" src="https://github.com/user-attachments/assets/6883c579-e536-472c-b1c9-990890ee829e" />
 
 
 ## HOMEPAGE:
-<img width="1914" height="902" alt="Screenshot 2025-12-24 203239" src="https://github.com/user-attachments/assets/5194b907-947d-4661-a7ef-95d2c2e39ac4" />
+<img width="1914" height="902" alt="Screenshot 2025-12-24 203239" src="https://github.com/user-attachments/assets/c7dccf8f-a10b-4fb9-bab6-bc30bfe96bfc" />
 
 
-## RESULT:
 The program for performing server side processing is completed successfully.
